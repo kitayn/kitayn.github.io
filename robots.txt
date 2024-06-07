@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kitayn.github.io/sitemap/sitemap.txt
